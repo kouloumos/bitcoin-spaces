@@ -9,7 +9,7 @@ export const NavbarWrapper = styled.div`
   position: absolute;
   top: 10px;
   left: 5px;
-  font-size: 14px;
+  font-size: 16px;
 `;
 
 export const NavBarItem = styled(NavLink)`
